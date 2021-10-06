@@ -2,7 +2,7 @@
 //1 
 let arr = [5, 2, 1, -10, 8];
 
-//write your code here
+arr.sort((a,b)=> b-a)
 
 console.log( arr );
 
